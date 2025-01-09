@@ -55,5 +55,3 @@ By combining the capabilities of LangChain and open-source LLMs with a robust ve
 3. GitHub - declare-lab/flan-alpaca: This repository contains code for extending the Stanford Alpaca synthetic instruction tuning to existing instruction-tuned models such as Flan-T5. (n.d.). GitHub. https://github.com/declare-lab/flan-alpaca
 4. GitHub - huggingface/optimum: 🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools. (n.d.). GitHub. https://github.com/huggingface/optimum
 5. Chroma Docs. (n.d.). Chroma Docs. https://docs.trychroma.com/docs/overview/introduction
-6. 
-
