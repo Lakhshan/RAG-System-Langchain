@@ -21,6 +21,7 @@ This notebook demonstrates the implementation of a **Retrieval-Augmented Generat
  * Uses LangChain to interact with the vector store and retrieve relevant information based on user queries.
 
  * Combines retrieved information with the LLM to generate a response, ensuring the model is informed by the external knowledge.
+ * Also Provides Reference of response from the given Data
 
 
 ## **Workflow**
@@ -52,4 +53,7 @@ By combining the capabilities of LangChain and open-source LLMs with a robust ve
 1. Introduction | 🦜️🔗 LangChain. (n.d.). Introduction | 🦜️🔗 LangChain. https://python.langchain.com/docs/introduction/
 2. Hugging Face - Documentation. (n.d.). Hugging Face – The AI community building the future. https://huggingface.co/docs
 3. GitHub - declare-lab/flan-alpaca: This repository contains code for extending the Stanford Alpaca synthetic instruction tuning to existing instruction-tuned models such as Flan-T5. (n.d.). GitHub. https://github.com/declare-lab/flan-alpaca
+4. GitHub - huggingface/optimum: 🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools. (n.d.). GitHub. https://github.com/huggingface/optimum
+5. Chroma Docs. (n.d.). Chroma Docs. https://docs.trychroma.com/docs/overview/introduction
+6. 
 
