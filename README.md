@@ -48,3 +48,8 @@ This notebook demonstrates the implementation of a **Retrieval-Augmented Generat
 
 By combining the capabilities of LangChain and open-source LLMs with a robust vector storage mechanism, this implementation ensures efficient and accurate query resolution in diverse domains.
 
+## **Citation :**
+1. Introduction | 🦜️🔗 LangChain. (n.d.). Introduction | 🦜️🔗 LangChain. https://python.langchain.com/docs/introduction/
+2. Hugging Face - Documentation. (n.d.). Hugging Face – The AI community building the future. https://huggingface.co/docs
+3. GitHub - declare-lab/flan-alpaca: This repository contains code for extending the Stanford Alpaca synthetic instruction tuning to existing instruction-tuned models such as Flan-T5. (n.d.). GitHub. https://github.com/declare-lab/flan-alpaca
+
